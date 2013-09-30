@@ -8,6 +8,8 @@ Some links to bookmark about Lineman for reference:
 * [Github](https://github.com/testdouble/lineman)
 * [Twitter](http://twitter.com/linemanjs)
 
+This page was built with Lineman! Find the source [on Github](https://github.com/testdouble/lineman-install-guide).
+
 <div class="link" id="downloads"></div>
 ## Downloads
 
