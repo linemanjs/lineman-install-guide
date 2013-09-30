@@ -20,7 +20,6 @@
           <ul class="nav navbar-nav">
             <li><a href="#downloads">Downloads</a></li>
             <li><a href="#setup">Setup</a></li>
-            <li><a href="#verify">Verify</a></li>
             <li><a href="#new">lineman new</a></li>
             <li><a href="#build">lineman build</a></li>
             <li><a href="#spec-ci">lineman spec-ci</a></li>

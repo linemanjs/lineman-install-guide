@@ -31,7 +31,6 @@ Additionally, it's important that we place PhantomJS somewhere on your path.
 
 <i class="icon-apple"></i> On OS X, I'd recommend making a new directory off the home and adding that to your path. (e.g. `mkdir ~/bin; echo 'export PATH="$PATH:$HOME/bin"' >> ~/.profile`), then copy the `phantomjs` binary into that directory.
 
-<div class="link" id="verify"></div>
 ## Verify your installation
 
 Next, we'll verify that your installation is working properly by trying to create a new project.
@@ -216,6 +215,8 @@ And then visit [http://localhost:8000](http://localhost:8000), which should show
 
 ![Hello World](/img/hello-world.png)
 
+Try editing a file like `app/js/hello.coffee` or `app/css/style.less` and then refresh your browser to verify that file watching is working.
+
 <div class="link" id="spec"></div>
 ### Running tests
 
@@ -232,3 +233,5 @@ And a new instance of Chrome will be invoked to run the test (assuming Chrome is
 Assuming that worked, the console should also reflect the passing test:
 
 ![Specs in console](/img/spec-cli.png)
+
+Currently file watching only works sporadically under Windows. See [this issue](https://github.com/airportyh/testem/issues/293) on the testem project for status.
