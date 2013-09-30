@@ -12,7 +12,7 @@ module.exports = require(process.env['LINEMAN_MAIN']).config.extend "application
   markdown:
     options:
       author: "FirstName LastName"
-      title: "my lineman blog"
+      title: "Lineman Install Guide"
       description: "where I post all my brilliant ideas"
       url: "http://www.mylinemanblog.com"
       rssCount: 10 #<-- remove, comment, or set to zero to disable RSS generation

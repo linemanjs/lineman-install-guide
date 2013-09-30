@@ -14,17 +14,17 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/">Lineman Intro</a>
+          <a class="navbar-brand" href="/">Lineman Install</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="#downloads">Downloads</a></li>
-            <li><a href="#setup">Setup</a></li>
-            <li><a href="#new">lineman new</a></li>
-            <li><a href="#build">lineman build</a></li>
-            <li><a href="#spec-ci">lineman spec-ci</a></li>
-            <li><a href="#run">lineman run</a></li>
-            <li><a href="#spec">lineman spec</a></li>
+            <li><a href="#downloads">downloads</a></li>
+            <li><a href="#setup">setup</a></li>
+            <li><a href="#new">new</a></li>
+            <li><a href="#build">build</a></li>
+            <li><a href="#spec-ci">spec-ci</a></li>
+            <li><a href="#run">run</a></li>
+            <li><a href="#spec">spec</a></li>
           </ul>
         </div>
       </div>

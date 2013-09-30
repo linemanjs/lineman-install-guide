@@ -1,4 +1,12 @@
-# Installation & One-time Setup
+# Lineman Install & Verification Guide
+
+This page will walk you through basic installation and verification of Lineman.
+
+Some links to bookmark about Lineman for reference:
+
+* [Lineman Homepage](http://linemanjs.com)
+* [Github](https://github.com/testdouble/lineman)
+* [Twitter](http://twitter.com/linemanjs)
 
 <div class="link" id="downloads"></div>
 ## Downloads
