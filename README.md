@@ -14,6 +14,6 @@ $ lineman run
 This was deployed to heroku by adding the custom Lineman heroku buildpack:
 
 ```
-$ heroku create --buildpack http://github.com/testdouble/heroku-buildpack-lineman.git
+$ heroku create --buildpack http://github.com/linemanjs/heroku-buildpack-lineman.git
 $ git push heroku
 ```

@@ -5,10 +5,10 @@ This page will walk you through basic installation and verification of Lineman.
 Some links to bookmark about Lineman for reference:
 
 * [Lineman Homepage](http://linemanjs.com)
-* [Github](https://github.com/testdouble/lineman)
+* [Github](https://github.com/linemanjs/lineman)
 * [Twitter](http://twitter.com/linemanjs)
 
-This page was built with Lineman! Find the source [on Github](https://github.com/testdouble/lineman-install-guide).
+This page was built with Lineman! Find the source [on Github](https://github.com/linemanjs/lineman-install-guide).
 
 <div class="link" id="downloads"></div>
 ## Downloads
@@ -75,7 +75,7 @@ Getting started:
     * `lineman clean` empties the "dist" and "generated" directories
     * `lineman spec` runs specs from the "specs" directory using testem
 
-For more info, check out http://github.com/testdouble/lineman
+For more info, check out http://github.com/linemanjs/lineman
 ```
 
 Next up, let's verify some basic Lineman commands.
